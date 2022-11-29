@@ -1,6 +1,6 @@
 # **Rubens Lieblingsrezepte**
 
-## Argentinische Empanadas (Vegetarische Version)
+## Argentinische Empanadas (Vegene Version)
 
 ![Argentinische Empanadas](https://cdn7.kiwilimon.com/brightcove/7151/7151.jpg)
 
@@ -8,9 +8,8 @@
 
 | Zutat            | Menge       |
 | ---------------- | ----------- |
-| Empanada Teig    | 14 Stück    |
+| Empanada-Teig    | 14 Stück    |
 | Veganes Hack     | 500g        |
-| Eier             | 5 Stück     |
 | Oliven           | 100g        |
 | Zwiebeln         | 2 Stück     |
 | Pflanzliches Öl  | 4El         |
@@ -20,7 +19,6 @@
 
 -   Zwiebeln klein schneiden
 -   Oliven in kleine Stücke schneiden
--   Eier kochen und in kleine Stücke schneiden
 -   Öl in einer Pfanne erhitzen
 -   Zwiebeln anbraten
 -   Veganes Hack anbraten
@@ -31,22 +29,22 @@
 
 ---
 
-## Tortellini a la Ruben
+## Tortellini a la Ruben (Vegan)
 
 ![Tortellini a la Ruben](https://www.waseigenes.com/wp-content/uploads/2021/06/Rezept-Tortellini-Salat-Carprese-waseigenes.com-3.jpg)
 
 **Zutatenliste:**
 
-| Zutat            | Menge       |
-| ---------------- | ----------- |
-| Tortellini       | 500g        |
-| Cherry Tomaten   | 200g        |
-| Ruccula          | 200g        |
-| Sahne            | 100g        |
-| Zwiebeln         | 1 Stück     |
-| Tabasco          | Abschmecken |
-| Pflanzliches Öl  | 4El         |
-| Pfeffer und Salz | Abschmecken |
+| Zutat             | Menge       |
+| ----------------- | ----------- |
+| Vegane Tortellini | 500g        |
+| Cherry-Tomaten    | 200g        |
+| Rucola            | 200g        |
+| Soja-Sahne        | 100g        |
+| Zwiebeln          | 1 Stück     |
+| Tabasco           | Abschmecken |
+| Pflanzliches Öl   | 4El         |
+| Pfeffer und Salz  | Abschmecken |
 
 **Anleitung:**
 
@@ -57,7 +55,7 @@
 -   Sahne dazugeben
 -   Mit Salz und Pfeffer abschmecken
 -   Tortellini kochen
--   Ruccula in die Soße geben
+-   Rucola in die Soße geben
 -   Gekochte Tortellini dazugeben
 
 ---

@@ -1,19 +1,19 @@
-## Tortellini a la Ruben
+## Tortellini a la Ruben (Vegan)
 
 ![Tortellini a la Ruben](https://www.waseigenes.com/wp-content/uploads/2021/06/Rezept-Tortellini-Salat-Carprese-waseigenes.com-3.jpg)
 
 **Zutatenliste:**
 
-| Zutat            | Menge       |
-| ---------------- | ----------- |
-| Tortellini       | 500g        |
-| Cherry Tomaten   | 200g        |
-| Ruccula          | 200g        |
-| Sahne            | 100g        |
-| Zwiebeln         | 1 Stück     |
-| Tabasco          | Abschmecken |
-| Pflanzliches Öl  | 4El         |
-| Pfeffer und Salz | Abschmecken |
+| Zutat             | Menge       |
+| ----------------- | ----------- |
+| Vegane Tortellini | 500g        |
+| Cherry-Tomaten    | 200g        |
+| Rucola            | 200g        |
+| Soja-Sahne        | 100g        |
+| Zwiebeln          | 1 Stück     |
+| Tabasco           | Abschmecken |
+| Pflanzliches Öl   | 4El         |
+| Pfeffer und Salz  | Abschmecken |
 
 **Anleitung:**
 
@@ -24,7 +24,7 @@
 -   Sahne dazugeben
 -   Mit Salz und Pfeffer abschmecken
 -   Tortellini kochen
--   Ruccula in die Soße geben
+-   Rucola in die Soße geben
 -   Gekochte Tortellini dazugeben
 
 ---

@@ -12,6 +12,7 @@
 | Veganes Hack     | 500g        |
 | Oliven           | 100g        |
 | Zwiebeln         | 2 Stück     |
+| Knoblauch        | 1 Stück     |
 | Pflanzliches Öl  | 4El         |
 | Pfeffer und Salz | Abschmecken |
 

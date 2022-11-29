@@ -1,6 +1,6 @@
 # **Rubens Lieblingsrezepte**
 
-## Argentinische Empanadas (Vegene Version)
+## Argentinische Empanadas (Vegane Version)
 
 ![Argentinische Empanadas](https://cdn7.kiwilimon.com/brightcove/7151/7151.jpg)
 
